@@ -1,0 +1,31 @@
+//jira story 101
+pipeline{
+   
+
+
+
+
+
+
+//changes in AB-103
+tools
+{maven"m3"
+java "17"
+docker"2"
+}
+
+agent any
+   stages{
+step
+
+{
+
+}
+//strory 102
+{"git clone 11"
+
+}
+
+}
+
+}

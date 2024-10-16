@@ -1,0 +1,8 @@
+//jira story 101
+pipeline{
+   agent any
+   stages{
+
+}
+
+}

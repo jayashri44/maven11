@@ -16,6 +16,15 @@ docker"2"
 
 agent any
    stages{
+step
+
+{
+
+}
+//strory 102
+{"git clone 11"
+
+}
 
 }
 
